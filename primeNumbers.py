@@ -1,7 +1,7 @@
 def prime_numbers(num):
  list_of_prime_numbers = []
 
- for i in range(2, num): # loops through 2 3 4 5 6 7
+ for i in range(2, num+1): # loops through 2 3 4 5 6 7
    prime = True
 
    for t in range(2, i): # 2,3
