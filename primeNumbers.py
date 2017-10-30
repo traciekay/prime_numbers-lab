@@ -13,4 +13,4 @@ def prime_numbers(num):
 
  return list_of_prime_numbers
 
-print prime_numbers(8)
+#print prime_numbers(8)
